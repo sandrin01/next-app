@@ -1,0 +1,17 @@
+{
+  "base_url": "https://www.orionstellar.com/",
+  "site_title": "OrionStellar",
+  "site_description": "Digital transformation for you",
+  "site_keywords": [
+    {
+      "keyword": "OrionStellar"
+    },
+    {
+      "keyword": "Data Center"
+    }
+  ],
+  "posts_per_page": 5,
+  "twitter_account": "@my-account",
+  "github_account": "wutali",
+  "published": true
+}
